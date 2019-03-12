@@ -8,7 +8,7 @@ saveint                 100000.0
 fpfric			      0.05
 bcifile                 Flood_valley_tribs.bci
 bdyfile                 Flood_valley_worst.bdy
-weirfile                Flood_valley.weir
+weirfile                SE_pilot.weir
 
 SGCn                    0.035
 SGCwidth                Flood_valley_tribs.width.asc
