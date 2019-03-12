@@ -1,0 +1,17 @@
+DEMfile                 Flood_valley.dem.asc
+resroot                 res
+dirroot			      results
+sim_time		          100000.0
+initial_tstep           20.0
+massint                 100.0
+saveint                 100000.0
+fpfric			      0.05
+bcifile                 Flood_valley_tribs.bci
+bdyfile                 Flood_valley_worst.bdy
+weirfile                Flood_valley.weir
+
+SGCn                    0.035
+SGCwidth                Flood_valley_tribs.width.asc
+SGCbank                 Flood_valley.dem.asc
+SGCbed                  Flood_valley.bed.asc
+elevoff
